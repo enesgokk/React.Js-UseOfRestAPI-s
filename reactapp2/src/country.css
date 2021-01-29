@@ -1,0 +1,36 @@
+.imgSize{
+	width: 100px;
+	height: 75px;
+	float: left;
+	padding-right: 25px;
+	
+}
+
+.borderSize{
+	border:3px solid #CCC;
+	background: #CCC;
+	border-radius: 10px;
+	width:400px;
+	padding-left: 10px;
+	margin:0px auto;	
+}
+
+.searchBox{
+
+	height: 25px;
+	width:50%;
+	border-radius:10px;
+	border:3px solid black;
+	margin:0px auto;	
+}
+
+.searchDesign{
+	border:0px solid white;
+	margin:0px auto;
+}
+
+.searchDesign:focus{
+	border-color:white; 
+}
+
+
